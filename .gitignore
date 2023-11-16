@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# toolbox
+toolbox_02450
+
 # plots
 figures/
 
